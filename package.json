@@ -1,0 +1,10 @@
+{
+  "name": "maindev-www",
+  "version": "1.0.0",
+  "description": "Public Website for mainwaring.dev",
+  "main": "README.md",
+  "repository": "https://github.com/theaccordance/maindev-www",
+  "author": "Joe Mainwaring <jm@theaccordance.com>",
+  "license": "MIT",
+  "private": true
+}
